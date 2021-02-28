@@ -11,12 +11,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          We are <a href="https://nextjs.org">Indias Shopping search engine!</a>
+          Welcome to<a href="https://nextjs.org">Howzzthat</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          A simple app{' '}
+          <code className={styles.code}>to find the best prices</code>
         </p>
 
         <div className={styles.grid}>
