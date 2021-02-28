@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          We are <a href="https://nextjs.org">India"'"s Shopping search engine!</a>
+          We are <a href="https://nextjs.org">Indias Shopping search engine!</a>
         </h1>
 
         <p className={styles.description}>
