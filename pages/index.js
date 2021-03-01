@@ -10,8 +10,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to<a href="https://nextjs.org">Howzzthat</a>
+        <h1 className={element.style a}>
+          The New Way To Search
         </h1>
 
         <p className={styles.description}>
