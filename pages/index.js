@@ -5,18 +5,18 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>A simple app to find the best prices: Howzzthat</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to<a href="https://nextjs.org">Howzzthat</a>
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-          A simple app{' '}
-          <code className={styles.code}>to find the best prices</code>
+          Get started by editing{' '}
+          <code className={styles.code}>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
