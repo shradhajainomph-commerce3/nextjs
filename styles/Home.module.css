@@ -57,6 +57,11 @@
   text-align: center;
 }
 
+.title {
+    --padding: 0.2em;
+    --start-color: #007CF0;
+    --end-color: #00DFD8;
+
 .description {
   line-height: 1.5;
   font-size: 1.5rem;
@@ -110,10 +115,6 @@
   line-height: 1.5;
 }
 
-.style a {
-    --padding: 0.2em;
-    --start-color: #007CF0;
-    --end-color: #00DFD8;
 }
 
 .logo {
