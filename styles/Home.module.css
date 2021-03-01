@@ -110,6 +110,12 @@
   line-height: 1.5;
 }
 
+element.style a {
+    --padding: 0.2em;
+    --start-color: #007CF0;
+    --end-color: #00DFD8;
+}
+
 .logo {
   height: 1em;
 }
