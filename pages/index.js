@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.style a}>
+        <h1 className={styles.title}>
           The New Way To Search
         </h1>
 
