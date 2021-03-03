@@ -1,14 +1,6 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-<meta name="title" content="Howzzthat: A simple app to find the best price">
-<meta name="description" content="A conversational bot that looks up the internet to find the best price. It is like having your very own personal assistant. It is Free to use. Try Now!">
-<meta name="keywords" content="price comparison app India, grocery price comparison app, price comparison website, price comparison sites for online shopping, price check app, price comparison engine, best price comparison app India">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
-<meta name="author" content="Howzzthat">
-
 export default function Home() {
   return (
     <div className={styles.container}>
